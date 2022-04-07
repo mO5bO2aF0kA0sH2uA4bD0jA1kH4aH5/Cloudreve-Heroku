@@ -38,5 +38,10 @@
         "value": "cd"
       }
     },
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ],
     "stack": "container"
   }
